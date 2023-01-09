@@ -1,0 +1,5 @@
+{
+  "template": "_templates/{{date}}",
+  "folder": "Japanese/Journal",
+  "format": "MM-DD-YYYY"
+}

@@ -1,0 +1,13 @@
+{
+  "accentColor": "",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "Japanese",
+    "Tables"
+  ],
+  "cssTheme": "Things",
+  "translucency": false,
+  "nativeMenus": false,
+  "showViewHeader": true,
+  "baseFontSize": 17
+}

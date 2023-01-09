@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "1f8b65f31e957798",
+    "type": "split",
+    "children": [
+      {
+        "id": "fdbdbe2de26b9852",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5df3fa4dbe4fe1ab",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Japanese/Journal/01-08-2023.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "031d0a289147d2b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Japanese/Journal/01-08-2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bfd61f7a752f1b5a",
+    "type": "split",
+    "children": [
+      {
+        "id": "99657a74ce15d080",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22776b3cc0da89a1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0c79b475d5e9198f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "ハチ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6bacdd9543637a06",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 226.5
+  },
+  "right": {
+    "id": "3bc03d123a20ece8",
+    "type": "split",
+    "children": [
+      {
+        "id": "da67c3c4414fe16e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf819f8ef0213179",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Japanese/Journal/01-08-2023.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e34d9e933f6fecb7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Japanese/Journal/01-08-2023.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "95a0fedc82c6f2ee",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8307bc5fb1753478",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Japanese/Journal/01-08-2023.md"
+              }
+            }
+          },
+          {
+            "id": "8464081fec3a6585",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "84adf8878fac2355",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "031d0a289147d2b5",
+  "lastOpenFiles": [
+    "Japanese/Journal/01-03-2023.md",
+    "Japanese/Journal/01-08-2023.md",
+    "Japanese/Genki/Lesson 4/先生は大学生でした【Grammar 3】.md",
+    "Japanese/Genki/Lesson 4/まとめの練習【Review Exercises】.md",
+    "Japanese/Genki/Lesson 4/一時間待ちました【Grammar 6】.md",
+    "Japanese/Genki/Lesson 4/病院があります【Grammar 1】.md",
+    "Japanese/Genki/Lesson 3/Grammar 7.md",
+    "Japanese/Genki/Lesson 4/コーヒーを飲みます【Grammar 5】.md",
+    "Japanese/Genki/Lesson 4/月曜日に何をしましたか【Grammar 4】.md",
+    "Japanese/Journal/01-07-2023.md"
+  ]
+}
