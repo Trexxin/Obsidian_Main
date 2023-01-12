@@ -4,37 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "fdbdbe2de26b9852",
+        "id": "906fcd9a30906799",
         "type": "tabs",
         "children": [
           {
-            "id": "5df3fa4dbe4fe1ab",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Japanese/Journal/01-08-2023.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "031d0a289147d2b5",
+            "id": "d2abd5df191f1c58",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Japanese/Journal/01-08-2023.md",
-                "mode": "source",
+                "file": "Japanese/Journal/01-11-2023.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -101,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Japanese/Journal/01-08-2023.md",
+                "file": "Japanese/Journal/01-11-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Japanese/Journal/01-08-2023.md",
+                "file": "Japanese/Journal/01-11-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Japanese/Journal/01-08-2023.md"
+                "file": "Japanese/Journal/01-11-2023.md"
               }
             }
           },
@@ -180,17 +164,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "031d0a289147d2b5",
+  "active": "d2abd5df191f1c58",
   "lastOpenFiles": [
-    "Japanese/Journal/01-03-2023.md",
-    "Japanese/Journal/01-08-2023.md",
-    "Japanese/Genki/Lesson 4/先生は大学生でした【Grammar 3】.md",
-    "Japanese/Genki/Lesson 4/まとめの練習【Review Exercises】.md",
-    "Japanese/Genki/Lesson 4/一時間待ちました【Grammar 6】.md",
-    "Japanese/Genki/Lesson 4/病院があります【Grammar 1】.md",
-    "Japanese/Genki/Lesson 3/Grammar 7.md",
-    "Japanese/Genki/Lesson 4/コーヒーを飲みます【Grammar 5】.md",
-    "Japanese/Genki/Lesson 4/月曜日に何をしましたか【Grammar 4】.md",
-    "Japanese/Journal/01-07-2023.md"
+    "paste-1418be1e2dcb34175dc387ec886fa9d2de71cdcc.jpg",
+    "Japanese/Journal/01-11-2023.md",
+    "Japanese/Journal/01-10-2023.md",
+    "Japanese/Tae Kim Grammar Guide/Introduction to Particles/The 「は」 topic particle.md",
+    "Japanese/Tae Kim Grammar Guide/Introduction to Particles/The 「が」 identifier particle.md",
+    "Japanese/Tae Kim Grammar Guide/Expressing State of Being/Expressing State of Being Summary.md",
+    "Japanese/Tae Kim Grammar Guide/Expressing State of Being/Declaring something is so using「だ」.md",
+    "Japanese/Tae Kim Grammar Guide/Expressing State of Being/Conjugating to the negative state-of-being.md",
+    "Japanese/Tae Kim Grammar Guide/Adjectives/An annoying exception.md",
+    "Japanese/Journal/01-09-2023.md"
   ]
 }
